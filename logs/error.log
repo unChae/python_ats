@@ -1,0 +1,1273 @@
+2021-03-14 02:59:38 [ CRITICAL ] [ create_log.py:34 ] >> Money is scarce
+2021-03-15 21:32:24 [ CRITICAL ] [ create_log.py:34 ] >> Incorrect password
+2021-03-15 21:32:24 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-15 21:32:24 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-15 21:32:24 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-15 21:32:24 [ CRITICAL ] [ create_log.py:34 ] >> Incorrect password
+2021-03-15 21:32:24 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-15 21:37:03 [ CRITICAL ] [ create_log.py:34 ] >> USER: adminlogin
+2021-03-15 21:37:03 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-15 21:38:32 [ CRITICAL ] [ create_log.py:34 ] >> USER: adminlogin
+2021-03-15 21:38:32 [ DEBUG ] [ create_log.py:31 ] >> token
+2021-03-15 21:38:32 [ DEBUG ] [ create_log.py:31 ] >> token
+2021-03-15 21:38:32 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-15 22:25:28 [ CRITICAL ] [ create_log.py:34 ] >> USER: adminlogin
+2021-03-15 22:25:28 [ DEBUG ] [ create_log.py:31 ] >> active is false
+2021-03-15 22:25:28 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-15 22:25:28 [ DEBUG ] [ create_log.py:31 ] >> active is false
+2021-03-15 22:25:28 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-15 22:25:28 [ DEBUG ] [ create_log.py:31 ] >> active is true
+2021-03-15 22:25:28 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-15 22:25:28 [ DEBUG ] [ create_log.py:31 ] >> active is true
+2021-03-15 22:25:28 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-15 22:25:28 [ DEBUG ] [ create_log.py:31 ] >> active is true
+2021-03-15 22:25:28 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-15 22:25:28 [ DEBUG ] [ create_log.py:31 ] >> active is false
+2021-03-15 22:25:28 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-15 22:27:45 [ CRITICAL ] [ create_log.py:34 ] >> USER: adminlogin
+2021-03-15 23:17:29 [ CRITICAL ] [ create_log.py:34 ] >> USER: adminlogin
+2021-03-15 23:17:29 [ CRITICAL ] [ create_log.py:34 ] >> USER: adminlogin
+2021-03-15 23:17:29 [ CRITICAL ] [ create_log.py:34 ] >> USER: adminlogin
+2021-03-15 23:17:29 [ CRITICAL ] [ create_log.py:34 ] >> USER: adminlogin
+2021-03-15 23:17:29 [ CRITICAL ] [ create_log.py:34 ] >> USER: adminlogin
+2021-03-15 23:17:29 [ CRITICAL ] [ create_log.py:34 ] >> USER: adminlogin
+2021-03-15 23:55:32 [ CRITICAL ] [ create_log.py:34 ] >> USER: adminlogin
+2021-03-16 00:33:57 [ CRITICAL ] [ create_log.py:34 ] >> USER: adminlogin
+2021-03-16 02:51:49 [ CRITICAL ] [ create_log.py:34 ] >> USER: adminlogin
+2021-03-16 21:05:35 [ CRITICAL ] [ create_log.py:34 ] >> USER: adminlogin
+2021-03-16 21:05:51 [ CRITICAL ] [ create_log.py:34 ] >> USER: adminlogin
+2021-03-16 21:07:07 [ CRITICAL ] [ create_log.py:34 ] >> USER: adminlogin
+2021-03-16 21:07:23 [ CRITICAL ] [ create_log.py:34 ] >> USER: adminlogin
+2021-03-16 21:07:36 [ CRITICAL ] [ create_log.py:34 ] >> USER: adminlogin
+2021-03-16 21:08:02 [ CRITICAL ] [ create_log.py:34 ] >> USER: adminlogin
+2021-03-16 21:08:54 [ CRITICAL ] [ create_log.py:34 ] >> USER: adminlogin
+2021-03-16 21:09:39 [ CRITICAL ] [ create_log.py:34 ] >> USER: adminlogin
+2021-03-16 21:10:15 [ CRITICAL ] [ create_log.py:34 ] >> USER: adminlogin
+2021-03-16 21:10:50 [ CRITICAL ] [ create_log.py:34 ] >> USER: adminlogin
+2021-03-16 21:11:27 [ CRITICAL ] [ create_log.py:34 ] >> USER: adminlogin
+2021-03-17 00:53:49 [ CRITICAL ] [ create_log.py:34 ] >> USER: adminlogin
+2021-03-17 00:53:49 [ CRITICAL ] [ create_log.py:34 ] >> USER: adminlogin
+2021-03-17 00:55:54 [ CRITICAL ] [ create_log.py:34 ] >> USER: adminlogin
+2021-03-17 00:55:54 [ CRITICAL ] [ create_log.py:34 ] >> USER: adminlogin
+2021-03-17 00:55:54 [ CRITICAL ] [ create_log.py:34 ] >> USER: adminlogin
+2021-03-17 00:55:54 [ CRITICAL ] [ create_log.py:34 ] >> USER: adminlogin
+2021-03-17 00:58:04 [ CRITICAL ] [ create_log.py:34 ] >> USER: adminlogin
+2021-03-17 00:58:35 [ CRITICAL ] [ create_log.py:34 ] >> USER: adminlogin
+2021-03-17 00:58:35 [ CRITICAL ] [ create_log.py:34 ] >> USER: adminlogin
+2021-03-17 00:59:29 [ CRITICAL ] [ create_log.py:34 ] >> USER: adminlogin
+2021-03-17 00:59:29 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-17 00:59:29 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-17 00:59:29 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-17 00:59:29 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-17 00:59:29 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-17 00:59:29 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-17 00:59:29 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-17 00:59:29 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-17 00:59:29 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-17 00:59:29 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-17 00:59:29 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-17 00:59:29 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-17 00:59:29 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-17 00:59:29 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-17 00:59:29 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-17 00:59:29 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-17 00:59:29 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-17 00:59:29 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-17 00:59:29 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-17 00:59:29 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-17 00:59:29 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-17 00:59:29 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-17 00:59:29 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-17 00:59:29 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-17 00:59:29 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-17 00:59:29 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-17 00:59:29 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-17 00:59:29 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-17 00:59:29 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-17 00:59:29 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-17 00:59:29 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-17 00:59:29 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-17 00:59:29 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-17 00:59:29 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-17 00:59:29 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-17 00:59:29 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-17 00:59:29 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-17 00:59:29 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-17 00:59:29 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-17 01:12:22 [ CRITICAL ] [ create_log.py:34 ] >> USER: adminlogin
+2021-03-17 01:12:22 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-17 01:12:22 [ DEBUG ] [ create_log.py:31 ] >> active is false
+2021-03-17 01:12:22 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-17 01:12:22 [ DEBUG ] [ create_log.py:31 ] >> active is false
+2021-03-17 01:12:22 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-17 01:12:22 [ DEBUG ] [ create_log.py:31 ] >> active is true
+2021-03-17 01:12:22 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-17 01:12:22 [ DEBUG ] [ create_log.py:31 ] >> active is true
+2021-03-17 01:12:22 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-17 01:12:22 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-17 01:12:22 [ DEBUG ] [ create_log.py:31 ] >> active is false
+2021-03-17 01:12:22 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-17 01:12:22 [ DEBUG ] [ create_log.py:31 ] >> active is false
+2021-03-17 01:12:22 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-17 01:12:22 [ DEBUG ] [ create_log.py:31 ] >> active is true
+2021-03-17 01:12:22 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-17 01:12:22 [ DEBUG ] [ create_log.py:31 ] >> active is true
+2021-03-17 01:12:22 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-17 01:12:22 [ DEBUG ] [ create_log.py:31 ] >> active is false
+2021-03-17 01:12:22 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-17 01:12:22 [ DEBUG ] [ create_log.py:31 ] >> active is false
+2021-03-17 01:12:22 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-17 01:12:22 [ DEBUG ] [ create_log.py:31 ] >> active is true
+2021-03-17 01:12:22 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-17 01:12:22 [ DEBUG ] [ create_log.py:31 ] >> active is true
+2021-03-17 01:12:22 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-17 01:12:22 [ DEBUG ] [ create_log.py:31 ] >> active is false
+2021-03-17 01:12:22 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-17 01:12:22 [ DEBUG ] [ create_log.py:31 ] >> active is false
+2021-03-17 01:12:22 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-17 01:12:22 [ DEBUG ] [ create_log.py:31 ] >> active is true
+2021-03-17 01:12:22 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-17 01:12:22 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-17 01:12:22 [ DEBUG ] [ create_log.py:31 ] >> active is false
+2021-03-17 01:12:22 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-17 01:12:22 [ DEBUG ] [ create_log.py:31 ] >> active is true
+2021-03-17 01:12:22 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-17 01:12:22 [ DEBUG ] [ create_log.py:31 ] >> active is true
+2021-03-17 01:12:22 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-17 01:12:22 [ DEBUG ] [ create_log.py:31 ] >> active is false
+2021-03-17 01:12:22 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-17 01:12:22 [ DEBUG ] [ create_log.py:31 ] >> active is true
+2021-03-17 01:12:22 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-17 01:12:22 [ DEBUG ] [ create_log.py:31 ] >> active is false
+2021-03-17 01:12:22 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-17 01:12:22 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-17 01:12:22 [ DEBUG ] [ create_log.py:31 ] >> active is true
+2021-03-17 01:12:22 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-17 01:12:22 [ DEBUG ] [ create_log.py:31 ] >> active is false
+2021-03-17 01:12:22 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-17 01:12:22 [ DEBUG ] [ create_log.py:31 ] >> active is false
+2021-03-17 01:12:22 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-17 01:12:22 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-17 01:12:22 [ DEBUG ] [ create_log.py:31 ] >> active is true
+2021-03-17 01:12:22 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-17 01:12:22 [ DEBUG ] [ create_log.py:31 ] >> active is true
+2021-03-17 01:12:22 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-17 01:12:22 [ DEBUG ] [ create_log.py:31 ] >> active is false
+2021-03-17 01:12:22 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-17 01:12:22 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-17 01:12:22 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-17 01:12:22 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-17 01:12:22 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-17 01:12:22 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-17 01:12:22 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-17 01:12:22 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-17 01:12:22 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-17 01:12:22 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-17 01:12:22 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-17 01:12:22 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-17 01:12:22 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-17 01:12:22 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-17 01:12:22 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-17 01:12:22 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-17 01:12:22 [ DEBUG ] [ create_log.py:31 ] >> active is false
+2021-03-17 01:12:22 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-17 01:12:22 [ DEBUG ] [ create_log.py:31 ] >> active is true
+2021-03-17 01:12:22 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-17 01:12:22 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-17 01:12:22 [ DEBUG ] [ create_log.py:31 ] >> active is false
+2021-03-17 01:12:22 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-17 01:12:22 [ DEBUG ] [ create_log.py:31 ] >> active is true
+2021-03-17 01:12:22 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-17 01:12:22 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-17 01:12:22 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-17 01:12:22 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-17 01:12:22 [ CRITICAL ] [ create_log.py:34 ] >> USER: adminlogin
+2021-03-17 01:12:22 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-17 01:12:22 [ DEBUG ] [ create_log.py:31 ] >> create reservation
+2021-03-17 01:12:22 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-17 01:12:22 [ DEBUG ] [ create_log.py:31 ] >> create reservation
+2021-03-17 01:12:22 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-17 01:12:22 [ DEBUG ] [ create_log.py:31 ] >> active is false
+2021-03-17 01:12:22 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-17 01:12:22 [ DEBUG ] [ create_log.py:31 ] >> active is false
+2021-03-17 01:12:22 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-17 01:12:22 [ DEBUG ] [ create_log.py:31 ] >> active is true
+2021-03-17 01:12:22 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-17 01:12:22 [ DEBUG ] [ create_log.py:31 ] >> active is true
+2021-03-17 01:12:22 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-17 01:12:22 [ DEBUG ] [ create_log.py:31 ] >> active is false
+2021-03-17 01:12:22 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-17 01:12:22 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-17 01:12:22 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-17 01:12:22 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-17 01:12:22 [ DEBUG ] [ create_log.py:31 ] >> active is true
+2021-03-17 01:12:22 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-17 01:12:22 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-17 01:12:22 [ DEBUG ] [ create_log.py:31 ] >> active is false
+2021-03-17 01:12:22 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-17 01:12:22 [ DEBUG ] [ create_log.py:31 ] >> active is false
+2021-03-17 01:12:22 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-17 01:12:22 [ DEBUG ] [ create_log.py:31 ] >> active is true
+2021-03-17 01:12:22 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-17 01:12:22 [ DEBUG ] [ create_log.py:31 ] >> active is true
+2021-03-17 01:12:22 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-17 01:12:22 [ DEBUG ] [ create_log.py:31 ] >> active is false
+2021-03-17 01:12:22 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-17 01:12:22 [ DEBUG ] [ create_log.py:31 ] >> active is false
+2021-03-17 01:12:22 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-17 01:12:22 [ DEBUG ] [ create_log.py:31 ] >> active is true
+2021-03-17 01:12:22 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-17 01:12:22 [ DEBUG ] [ create_log.py:31 ] >> active is false
+2021-03-17 01:12:22 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-17 01:12:22 [ DEBUG ] [ create_log.py:31 ] >> active is true
+2021-03-17 01:12:22 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-17 01:12:22 [ DEBUG ] [ create_log.py:31 ] >> active is true
+2021-03-17 01:12:22 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-17 01:12:22 [ DEBUG ] [ create_log.py:31 ] >> active is false
+2021-03-17 01:12:22 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-17 01:12:22 [ DEBUG ] [ create_log.py:31 ] >> active is false
+2021-03-17 01:12:22 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-17 01:12:22 [ DEBUG ] [ create_log.py:31 ] >> active is true
+2021-03-17 01:12:22 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-17 01:12:22 [ DEBUG ] [ create_log.py:31 ] >> active is true
+2021-03-17 01:12:22 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-17 01:12:22 [ DEBUG ] [ create_log.py:31 ] >> active is false
+2021-03-17 01:12:22 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-17 01:12:22 [ DEBUG ] [ create_log.py:31 ] >> active is false
+2021-03-17 01:12:22 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-17 01:12:22 [ DEBUG ] [ create_log.py:31 ] >> active is true
+2021-03-17 01:12:22 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-17 01:12:22 [ DEBUG ] [ create_log.py:31 ] >> active is true
+2021-03-17 01:12:22 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-17 01:12:22 [ DEBUG ] [ create_log.py:31 ] >> active is false
+2021-03-17 01:12:22 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-17 01:12:22 [ DEBUG ] [ create_log.py:31 ] >> active is false
+2021-03-17 01:12:22 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-17 01:12:22 [ DEBUG ] [ create_log.py:31 ] >> active is true
+2021-03-17 01:12:22 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-17 01:12:22 [ DEBUG ] [ create_log.py:31 ] >> active is true
+2021-03-17 01:12:22 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-17 01:12:22 [ DEBUG ] [ create_log.py:31 ] >> active is false
+2021-03-17 01:12:22 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-17 01:12:22 [ DEBUG ] [ create_log.py:31 ] >> active is false
+2021-03-17 01:12:22 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-17 01:12:22 [ DEBUG ] [ create_log.py:31 ] >> active is true
+2021-03-17 01:12:22 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-17 01:12:22 [ DEBUG ] [ create_log.py:31 ] >> active is true
+2021-03-17 01:12:22 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-17 01:12:22 [ DEBUG ] [ create_log.py:31 ] >> active is false
+2021-03-17 01:12:22 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-17 01:12:22 [ DEBUG ] [ create_log.py:31 ] >> active is false
+2021-03-17 01:12:22 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-17 01:12:22 [ DEBUG ] [ create_log.py:31 ] >> active is true
+2021-03-17 01:12:22 [ DEBUG ] [ create_log.py:31 ] >> active is true
+2021-03-17 01:12:22 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-17 01:12:22 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-17 01:12:22 [ DEBUG ] [ create_log.py:31 ] >> active is false
+2021-03-17 01:12:22 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-17 01:12:22 [ DEBUG ] [ create_log.py:31 ] >> active is false
+2021-03-17 01:12:22 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-17 01:12:22 [ DEBUG ] [ create_log.py:31 ] >> active is true
+2021-03-17 01:12:22 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-17 01:12:22 [ DEBUG ] [ create_log.py:31 ] >> active is true
+2021-03-17 01:12:22 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-17 01:12:22 [ DEBUG ] [ create_log.py:31 ] >> active is false
+2021-03-17 01:12:22 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-17 01:12:22 [ DEBUG ] [ create_log.py:31 ] >> active is false
+2021-03-17 01:12:22 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-17 01:12:22 [ DEBUG ] [ create_log.py:31 ] >> active is true
+2021-03-17 01:12:22 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-17 01:12:22 [ DEBUG ] [ create_log.py:31 ] >> active is true
+2021-03-17 01:12:22 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-17 01:12:22 [ DEBUG ] [ create_log.py:31 ] >> active is false
+2021-03-17 01:12:22 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-17 01:12:22 [ DEBUG ] [ create_log.py:31 ] >> active is false
+2021-03-17 01:12:22 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-17 01:12:22 [ DEBUG ] [ create_log.py:31 ] >> active is true
+2021-03-17 01:12:22 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-17 01:12:22 [ DEBUG ] [ create_log.py:31 ] >> active is true
+2021-03-17 01:12:22 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-17 01:12:22 [ DEBUG ] [ create_log.py:31 ] >> active is false
+2021-03-17 01:12:22 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-17 01:12:22 [ DEBUG ] [ create_log.py:31 ] >> active is true
+2021-03-17 01:12:22 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-17 01:12:22 [ DEBUG ] [ create_log.py:31 ] >> active is false
+2021-03-17 01:12:22 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-17 01:12:22 [ DEBUG ] [ create_log.py:31 ] >> active is true
+2021-03-17 01:12:22 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-17 01:12:22 [ DEBUG ] [ create_log.py:31 ] >> active is false
+2021-03-17 01:12:22 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-17 01:12:22 [ DEBUG ] [ create_log.py:31 ] >> active is true
+2021-03-17 01:12:22 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-17 01:12:22 [ DEBUG ] [ create_log.py:31 ] >> active is false
+2021-03-17 01:12:22 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-17 01:12:22 [ DEBUG ] [ create_log.py:31 ] >> active is true
+2021-03-17 01:12:22 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-17 01:12:22 [ DEBUG ] [ create_log.py:31 ] >> active is false
+2021-03-17 01:12:22 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-17 01:12:22 [ DEBUG ] [ create_log.py:31 ] >> active is true
+2021-03-17 01:12:22 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-17 01:12:22 [ DEBUG ] [ create_log.py:31 ] >> active is false
+2021-03-17 01:12:22 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-17 01:12:22 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-17 01:12:22 [ DEBUG ] [ create_log.py:31 ] >> active is true
+2021-03-17 01:12:22 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-17 01:12:22 [ DEBUG ] [ create_log.py:31 ] >> active is false
+2021-03-17 01:12:22 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-17 01:12:22 [ DEBUG ] [ create_log.py:31 ] >> active is false
+2021-03-17 01:12:22 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-17 01:12:22 [ DEBUG ] [ create_log.py:31 ] >> active is true
+2021-03-17 01:12:22 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-17 01:12:22 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-17 01:12:22 [ DEBUG ] [ create_log.py:31 ] >> active is false
+2021-03-17 01:12:22 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-17 01:12:22 [ DEBUG ] [ create_log.py:31 ] >> active is true
+2021-03-17 01:12:22 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-17 01:12:22 [ DEBUG ] [ create_log.py:31 ] >> active is true
+2021-03-17 01:12:22 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-17 01:12:22 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-17 01:12:22 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-17 01:12:22 [ DEBUG ] [ create_log.py:31 ] >> active is false
+2021-03-17 01:12:22 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-17 01:12:22 [ DEBUG ] [ create_log.py:31 ] >> active is true
+2021-03-17 01:12:22 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-17 01:12:22 [ DEBUG ] [ create_log.py:31 ] >> active is false
+2021-03-17 01:12:22 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-17 01:12:22 [ DEBUG ] [ create_log.py:31 ] >> active is false
+2021-03-17 01:12:22 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-17 01:12:22 [ DEBUG ] [ create_log.py:31 ] >> active is true
+2021-03-17 01:12:22 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-17 01:12:22 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-17 01:12:22 [ DEBUG ] [ create_log.py:31 ] >> active is true
+2021-03-17 01:12:22 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-17 01:12:22 [ DEBUG ] [ create_log.py:31 ] >> active is false
+2021-03-17 01:12:22 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-17 01:12:22 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-17 01:12:22 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-17 01:12:22 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-17 01:12:22 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-17 01:12:22 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-17 01:12:22 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-17 01:12:22 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-17 01:12:22 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-17 01:12:22 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-17 01:12:22 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-17 01:12:22 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-17 01:12:22 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-17 01:12:22 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-17 01:12:22 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-17 01:12:22 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-17 01:12:22 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-17 01:12:22 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-17 01:12:22 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-17 01:12:22 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-17 01:12:22 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-17 01:12:22 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-17 01:12:22 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-17 01:12:22 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-17 01:12:22 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-17 01:12:22 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-17 01:12:22 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-17 01:12:22 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-17 01:12:22 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-17 22:12:43 [ CRITICAL ] [ create_log.py:34 ] >> USER: adminlogin
+2021-03-17 22:12:43 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-17 22:12:43 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-17 22:12:43 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-17 22:12:43 [ DEBUG ] [ create_log.py:31 ] >> active is false
+2021-03-17 22:12:43 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-17 22:12:43 [ DEBUG ] [ create_log.py:31 ] >> active is true
+2021-03-17 22:12:43 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-17 22:12:43 [ DEBUG ] [ create_log.py:31 ] >> active is false
+2021-03-17 22:12:43 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-17 22:12:43 [ DEBUG ] [ create_log.py:31 ] >> active is true
+2021-03-17 22:12:43 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-17 22:12:43 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-17 22:12:43 [ DEBUG ] [ create_log.py:31 ] >> active is false
+2021-03-17 22:12:43 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-17 22:12:43 [ DEBUG ] [ create_log.py:31 ] >> active is true
+2021-03-17 22:12:43 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-17 22:12:43 [ DEBUG ] [ create_log.py:31 ] >> active is false
+2021-03-17 22:12:43 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-17 22:12:43 [ DEBUG ] [ create_log.py:31 ] >> active is true
+2021-03-17 22:12:43 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-17 22:12:43 [ DEBUG ] [ create_log.py:31 ] >> active is false
+2021-03-17 22:12:43 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-17 22:12:43 [ DEBUG ] [ create_log.py:31 ] >> active is true
+2021-03-17 22:12:43 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-17 22:12:43 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-17 22:12:43 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-17 22:12:43 [ DEBUG ] [ create_log.py:31 ] >> create reservation
+2021-03-17 22:12:43 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-17 22:12:43 [ DEBUG ] [ create_log.py:31 ] >> create reservation
+2021-03-17 22:12:43 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-17 22:12:43 [ DEBUG ] [ create_log.py:31 ] >> create reservation
+2021-03-17 22:12:43 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-17 22:12:43 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-17 22:12:43 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-17 22:12:43 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-17 22:12:43 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-17 22:12:43 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-17 22:12:43 [ DEBUG ] [ create_log.py:31 ] >> active is false
+2021-03-17 22:12:43 [ DEBUG ] [ create_log.py:31 ] >> active is false
+2021-03-17 22:12:43 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-17 22:12:43 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-17 22:12:43 [ DEBUG ] [ create_log.py:31 ] >> active is false
+2021-03-17 22:12:43 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-17 22:12:43 [ DEBUG ] [ create_log.py:31 ] >> active is true
+2021-03-17 22:12:43 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-17 22:12:43 [ DEBUG ] [ create_log.py:31 ] >> active is true
+2021-03-17 22:12:43 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-17 22:12:43 [ DEBUG ] [ create_log.py:31 ] >> active is false
+2021-03-17 22:12:43 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-17 22:12:43 [ DEBUG ] [ create_log.py:31 ] >> active is true
+2021-03-17 22:12:43 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-17 22:12:43 [ DEBUG ] [ create_log.py:31 ] >> active is true
+2021-03-17 22:12:43 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-17 22:12:43 [ DEBUG ] [ create_log.py:31 ] >> active is false
+2021-03-17 22:12:43 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-17 22:12:43 [ DEBUG ] [ create_log.py:31 ] >> active is false
+2021-03-17 22:12:43 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-17 22:12:43 [ DEBUG ] [ create_log.py:31 ] >> active is true
+2021-03-17 22:12:43 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-17 22:12:43 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-17 22:12:43 [ DEBUG ] [ create_log.py:31 ] >> active is false
+2021-03-17 22:12:43 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-17 22:12:43 [ DEBUG ] [ create_log.py:31 ] >> active is true
+2021-03-17 22:12:43 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-17 22:12:43 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-17 22:12:43 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-17 22:12:43 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-17 22:12:43 [ DEBUG ] [ create_log.py:31 ] >> create reservation
+2021-03-17 22:12:43 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-17 22:12:43 [ DEBUG ] [ create_log.py:31 ] >> create reservation
+2021-03-17 22:12:43 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-17 22:12:43 [ DEBUG ] [ create_log.py:31 ] >> create reservation
+2021-03-17 22:12:43 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-17 22:12:43 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-17 22:12:43 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-17 22:12:43 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-17 22:12:43 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-17 22:12:43 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-17 22:12:43 [ DEBUG ] [ create_log.py:31 ] >> active is false
+2021-03-17 22:12:43 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-17 22:12:43 [ DEBUG ] [ create_log.py:31 ] >> active is false
+2021-03-17 22:12:43 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-17 22:12:43 [ DEBUG ] [ create_log.py:31 ] >> active is false
+2021-03-17 22:12:43 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-17 22:12:43 [ DEBUG ] [ create_log.py:31 ] >> active is true
+2021-03-17 22:12:43 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-17 22:12:43 [ DEBUG ] [ create_log.py:31 ] >> active is true
+2021-03-17 22:12:43 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-17 22:12:43 [ DEBUG ] [ create_log.py:31 ] >> active is false
+2021-03-17 22:12:43 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-17 22:12:43 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-17 22:12:43 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-17 23:38:47 [ CRITICAL ] [ create_log.py:34 ] >> USER: adminlogin
+2021-03-17 23:38:47 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-17 23:38:47 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-17 23:38:47 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-17 23:41:48 [ CRITICAL ] [ create_log.py:34 ] >> USER: adminlogin
+2021-03-17 23:41:48 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-17 23:41:48 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-17 23:41:48 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-17 23:41:48 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-17 23:41:48 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-17 23:41:48 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-18 04:49:39 [ CRITICAL ] [ create_log.py:34 ] >> USER: adminlogin
+2021-03-18 04:49:39 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-18 04:49:39 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-18 04:49:39 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-18 04:49:39 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-18 04:49:39 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-18 04:49:39 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-18 04:49:39 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-18 04:49:39 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-18 04:49:39 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-18 04:49:39 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-18 04:49:39 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-18 04:49:39 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-18 04:49:39 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-18 21:34:03 [ CRITICAL ] [ create_log.py:34 ] >> USER: adminlogin
+2021-03-18 21:34:03 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-18 21:34:03 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-18 21:34:03 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-18 22:02:16 [ CRITICAL ] [ create_log.py:34 ] >> USER: adminlogin
+2021-03-18 22:02:16 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-18 22:02:16 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-18 22:45:57 [ CRITICAL ] [ create_log.py:34 ] >> Incorrect password
+2021-03-18 22:45:57 [ CRITICAL ] [ create_log.py:34 ] >> Incorrect password
+2021-03-18 22:45:57 [ CRITICAL ] [ create_log.py:34 ] >> Incorrect password
+2021-03-18 23:24:12 [ CRITICAL ] [ create_log.py:34 ] >> Incorrect password
+2021-03-18 23:24:12 [ CRITICAL ] [ create_log.py:34 ] >> Incorrect password
+2021-03-18 23:24:12 [ CRITICAL ] [ create_log.py:34 ] >> Incorrect password
+2021-03-18 23:24:12 [ CRITICAL ] [ create_log.py:34 ] >> USER: adminlogin
+2021-03-18 23:24:12 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-18 23:24:12 [ CRITICAL ] [ create_log.py:34 ] >> Incorrect password
+2021-03-18 23:24:12 [ CRITICAL ] [ create_log.py:34 ] >> Incorrect password
+2021-03-18 23:24:12 [ CRITICAL ] [ create_log.py:34 ] >> Incorrect password
+2021-03-18 23:24:12 [ CRITICAL ] [ create_log.py:34 ] >> Incorrect password
+2021-03-18 23:24:12 [ CRITICAL ] [ create_log.py:34 ] >> Incorrect password
+2021-03-18 23:24:12 [ CRITICAL ] [ create_log.py:34 ] >> Incorrect password
+2021-03-18 23:24:12 [ CRITICAL ] [ create_log.py:34 ] >> Incorrect password
+2021-03-18 23:24:12 [ CRITICAL ] [ create_log.py:34 ] >> Incorrect password
+2021-03-18 23:24:12 [ CRITICAL ] [ create_log.py:34 ] >> Incorrect password
+2021-03-18 23:24:12 [ CRITICAL ] [ create_log.py:34 ] >> Incorrect password
+2021-03-18 23:24:12 [ CRITICAL ] [ create_log.py:34 ] >> Incorrect password
+2021-03-18 23:24:12 [ CRITICAL ] [ create_log.py:34 ] >> Incorrect password
+2021-03-18 23:24:12 [ CRITICAL ] [ create_log.py:34 ] >> Incorrect password
+2021-03-18 23:24:12 [ CRITICAL ] [ create_log.py:34 ] >> Incorrect password
+2021-03-18 23:24:12 [ CRITICAL ] [ create_log.py:34 ] >> Incorrect password
+2021-03-18 23:24:12 [ CRITICAL ] [ create_log.py:34 ] >> Incorrect password
+2021-03-18 23:24:12 [ CRITICAL ] [ create_log.py:34 ] >> USER: adminlogin
+2021-03-18 23:24:12 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-18 23:24:12 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-18 23:24:12 [ CRITICAL ] [ create_log.py:34 ] >> Incorrect password
+2021-03-18 23:24:12 [ CRITICAL ] [ create_log.py:34 ] >> USER: adminlogin
+2021-03-18 23:24:12 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-18 23:24:12 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-18 23:24:12 [ CRITICAL ] [ create_log.py:34 ] >> USER: adminlogin
+2021-03-18 23:24:12 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-18 23:24:12 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-18 23:24:12 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-18 23:24:12 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-18 23:24:12 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-18 23:24:12 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-18 23:24:12 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-18 23:24:12 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-18 23:24:12 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-18 23:24:12 [ CRITICAL ] [ create_log.py:34 ] >> USER: adminlogin
+2021-03-18 23:24:12 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-18 23:24:12 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-18 23:24:12 [ CRITICAL ] [ create_log.py:34 ] >> USER: adminlogin
+2021-03-18 23:24:12 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-18 23:24:12 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-18 23:24:12 [ CRITICAL ] [ create_log.py:34 ] >> USER: adminlogin
+2021-03-18 23:24:12 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-18 23:24:12 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-18 23:24:12 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-18 23:24:12 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-18 23:24:12 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-18 23:24:12 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-18 23:24:12 [ CRITICAL ] [ create_log.py:34 ] >> USER: adminlogin
+2021-03-18 23:24:12 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-18 23:24:12 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-18 23:24:12 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-18 23:24:12 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-18 23:24:12 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-18 23:24:12 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-18 23:24:12 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-18 23:24:12 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-18 23:24:12 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-18 23:24:12 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-18 23:24:12 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-18 23:24:12 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-18 23:24:12 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-18 23:24:12 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-18 23:24:12 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-18 23:24:12 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-18 23:24:12 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-18 23:24:12 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-18 23:24:12 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-18 23:24:12 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-18 23:24:12 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-18 23:24:12 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-18 23:24:12 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-18 23:24:12 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-18 23:24:12 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-18 23:24:12 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-18 23:24:12 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-18 23:24:12 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-18 23:24:12 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-18 23:24:12 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-18 23:24:12 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-18 23:24:12 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-18 23:24:12 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-18 23:24:12 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-18 23:24:12 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-18 23:24:12 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-18 23:24:12 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-18 23:24:12 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-18 23:24:12 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-18 23:24:12 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-18 23:24:12 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-18 23:24:12 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-18 23:24:12 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-18 23:24:12 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-18 23:24:12 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-18 23:24:12 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-18 23:24:12 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-18 23:24:12 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-18 23:24:12 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-18 23:24:12 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-18 23:24:12 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-18 23:24:12 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-18 23:24:12 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-18 23:24:12 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-18 23:24:12 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-18 23:24:12 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-18 23:24:12 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-18 23:24:12 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-18 23:24:12 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-18 23:24:12 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-18 23:24:12 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-18 23:24:12 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-18 23:24:12 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-18 23:24:12 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-18 23:24:12 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-18 23:24:12 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-18 23:24:12 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-18 23:24:12 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-18 23:24:12 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-18 23:24:12 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-18 23:24:12 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-18 23:24:12 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-18 23:24:12 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-18 23:24:12 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-18 23:24:12 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-18 23:24:12 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-18 23:24:12 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-18 23:24:12 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-18 23:24:12 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-18 23:24:12 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-18 23:24:12 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-18 23:24:12 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-18 23:24:12 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-18 23:24:12 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-18 23:24:12 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-18 23:24:12 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-18 23:24:12 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-18 23:24:12 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-18 23:24:12 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-18 23:24:12 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-18 23:24:12 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-18 23:24:12 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-18 23:24:12 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-18 23:24:12 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-18 23:24:12 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-18 23:24:12 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-18 23:24:12 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-18 23:24:12 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-18 23:24:12 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-18 23:24:12 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-18 23:24:12 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-18 23:24:12 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-18 23:24:12 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-18 23:24:12 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-18 23:24:12 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-18 23:24:12 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-18 23:24:12 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-18 23:24:12 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-18 23:24:12 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-18 23:24:12 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-18 23:24:12 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-18 23:24:12 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-18 23:24:12 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-18 23:24:12 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-18 23:24:12 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-18 23:24:12 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-18 23:24:12 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-18 23:24:12 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-18 23:24:12 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-18 23:24:12 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-18 23:24:12 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-18 23:24:12 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-18 23:24:12 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-18 23:24:12 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-18 23:24:12 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-18 23:24:12 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-18 23:24:12 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-18 23:24:12 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-18 23:24:12 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-18 23:24:12 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-18 23:24:12 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-18 23:24:12 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-18 23:24:12 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-18 23:24:12 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-18 23:24:12 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-18 23:24:12 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-18 23:24:12 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-18 23:24:12 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-18 23:24:12 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-18 23:24:12 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-18 23:24:12 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-18 23:24:12 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-18 23:24:12 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-18 23:24:12 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-18 23:24:12 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-18 23:24:12 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-18 23:24:12 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-18 23:24:12 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-18 23:24:12 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-18 23:24:12 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-18 23:24:12 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-18 23:24:12 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-18 23:24:12 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-18 23:24:12 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-18 23:24:12 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-18 23:24:12 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-18 23:24:12 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-18 23:24:12 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-18 23:24:12 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-18 23:24:12 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-18 23:24:12 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-18 23:24:12 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-18 23:24:12 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-18 23:24:12 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-18 23:24:12 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-18 23:24:12 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-18 23:24:12 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-18 23:24:12 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-18 23:24:12 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-18 23:24:12 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-18 23:24:12 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-18 23:24:12 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-18 23:24:12 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-18 23:24:12 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-18 23:24:12 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-18 23:24:12 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-18 23:24:12 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-18 23:24:12 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-18 23:24:12 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-18 23:24:12 [ DEBUG ] [ create_log.py:31 ] >> Active is false
+2021-03-18 23:24:12 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-18 23:24:12 [ DEBUG ] [ create_log.py:31 ] >> Active is true
+2021-03-18 23:24:12 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-18 23:24:12 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-18 23:24:12 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-18 23:24:12 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-18 23:24:12 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-18 23:24:12 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-18 23:24:12 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-18 23:24:12 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-18 23:24:12 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-18 23:24:12 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-18 23:24:12 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-18 23:24:12 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-18 23:24:12 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-18 23:24:12 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-18 23:24:12 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-18 23:24:12 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-18 23:24:12 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-18 23:24:12 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-18 23:24:12 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-18 23:24:12 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-18 23:24:12 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-18 23:24:12 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-18 23:24:12 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-18 23:24:12 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-18 23:24:12 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-18 23:24:12 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-18 23:24:12 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-18 23:24:12 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-18 23:24:12 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-18 23:24:12 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-18 23:24:12 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-18 23:24:12 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-18 23:24:12 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-18 23:24:12 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-18 23:24:12 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-18 23:58:44 [ CRITICAL ] [ create_log.py:34 ] >> USER: adminlogin
+2021-03-18 23:58:44 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-18 23:58:44 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-18 23:58:44 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-18 23:58:44 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-18 23:58:44 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-18 23:58:44 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-18 23:58:44 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-19 00:00:28 [ CRITICAL ] [ create_log.py:34 ] >> USER: adminlogin
+2021-03-19 00:00:28 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-19 00:00:28 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-19 00:00:28 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-19 00:00:28 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-19 00:00:28 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-19 00:00:28 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-19 00:00:28 [ CRITICAL ] [ create_log.py:34 ] >> USER: adminlogin
+2021-03-19 00:00:28 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-19 00:00:28 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-19 00:00:28 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-19 00:00:28 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-19 00:00:28 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-19 00:00:28 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-19 00:00:28 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-19 00:00:28 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-19 00:00:28 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-19 00:00:28 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-19 00:00:28 [ DEBUG ] [ create_log.py:31 ] >> Active is false
+2021-03-19 00:00:28 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-19 00:00:28 [ DEBUG ] [ create_log.py:31 ] >> Active is true
+2021-03-19 00:00:28 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-19 00:00:28 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-19 00:00:28 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-19 00:00:28 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-19 00:00:28 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-19 00:00:28 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-19 00:00:28 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-19 00:00:28 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-19 00:00:28 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-19 00:00:28 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-19 00:00:28 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-19 00:00:28 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-19 00:00:28 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-19 00:00:28 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-19 00:00:28 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-19 00:00:28 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-19 00:00:28 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-19 00:00:28 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-19 00:00:28 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-19 00:00:28 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-19 00:00:28 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-19 00:00:28 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-19 00:00:28 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-19 00:00:28 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-19 00:00:28 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-19 00:00:28 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-19 00:00:28 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-19 00:00:28 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-19 00:00:28 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-19 00:00:28 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-19 00:00:28 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-19 00:00:28 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-19 00:00:28 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-19 00:00:28 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-19 00:00:28 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-19 00:00:28 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-19 00:00:28 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-19 00:00:28 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-19 00:00:28 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-19 00:00:28 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-19 00:00:28 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-19 00:00:28 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-19 00:00:28 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-19 00:00:28 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-19 00:00:28 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-19 00:00:28 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-19 00:00:28 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-19 00:00:28 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-19 00:00:28 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-19 00:00:28 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-19 00:00:28 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-19 00:00:28 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-19 00:00:28 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-19 00:00:28 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-19 00:00:28 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-19 00:00:28 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-19 00:00:28 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-19 00:00:28 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-19 00:00:28 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-19 00:00:28 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-19 00:00:28 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-19 00:00:28 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-19 00:00:28 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-19 00:00:28 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-19 00:00:28 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-19 00:00:28 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-19 00:00:28 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-19 00:00:28 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-19 00:00:28 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-19 00:00:28 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-19 00:00:28 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-19 00:00:28 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-19 00:00:28 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-19 00:00:28 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-19 00:00:28 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-19 00:00:28 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-19 00:00:28 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-19 00:00:28 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-19 00:00:28 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-19 00:00:28 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-19 00:00:28 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-19 00:00:28 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-19 00:00:28 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-19 00:00:28 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-19 00:00:28 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-19 00:00:28 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-19 00:00:28 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-19 00:00:28 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-19 00:00:28 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-19 00:00:28 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-19 00:00:28 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-19 00:00:28 [ DEBUG ] [ create_log.py:31 ] >> Active is false
+2021-03-19 00:00:28 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-19 00:00:28 [ DEBUG ] [ create_log.py:31 ] >> Active is true
+2021-03-19 00:00:28 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-19 00:00:28 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-19 00:00:28 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-19 00:00:28 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-19 00:00:28 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-19 00:00:28 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-19 00:00:28 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-19 00:00:28 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-19 00:00:28 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-19 00:00:28 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-19 00:00:28 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-19 00:00:28 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-19 00:00:28 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-19 00:00:28 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-19 00:00:28 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-19 00:00:28 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-19 00:00:28 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-19 00:00:28 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-19 00:00:28 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-19 00:00:28 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-19 00:00:28 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-19 00:00:28 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-19 00:00:28 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-19 00:00:28 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-19 00:00:28 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-19 00:00:28 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-19 00:00:28 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-19 00:00:28 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-19 00:00:28 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-19 00:00:28 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-19 00:00:28 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-19 00:00:28 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-19 00:00:28 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-19 00:00:28 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-19 00:00:28 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-19 00:00:28 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-19 00:00:28 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-19 00:00:28 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-19 00:00:28 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-19 00:00:28 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-19 00:00:28 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-19 00:00:28 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-19 00:00:28 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-19 00:00:28 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-19 00:00:28 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-19 00:00:28 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-19 00:00:28 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-19 00:00:28 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-19 00:00:28 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-19 00:00:28 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-19 00:00:28 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-19 00:00:28 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-19 00:00:28 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-19 00:00:28 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-19 00:00:28 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-19 00:00:28 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-19 00:00:28 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-19 00:00:28 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-19 00:00:28 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-19 00:00:28 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-19 00:00:28 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-19 00:00:28 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-19 00:00:28 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-19 00:00:28 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-19 00:00:28 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-19 00:00:28 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-19 00:00:28 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-19 00:00:28 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-19 00:00:28 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-19 00:00:28 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-19 00:00:28 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-19 00:00:28 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-19 00:00:28 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-19 00:00:28 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-19 00:00:28 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-19 00:00:28 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-19 00:00:28 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-19 00:00:28 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-19 00:00:28 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-19 00:00:28 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-19 00:00:28 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-19 00:00:28 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-19 00:00:28 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-19 00:00:28 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-19 00:00:28 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-19 00:00:28 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-19 00:00:28 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-19 00:00:28 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-19 00:00:28 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-19 00:00:28 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-19 00:00:28 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-19 00:00:28 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-19 00:00:28 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-19 00:00:28 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-19 00:00:28 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-19 00:00:28 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-19 00:00:28 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-19 00:00:28 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-19 00:00:28 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-19 00:00:28 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-19 00:00:28 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-19 00:00:28 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-19 00:00:28 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-19 00:00:28 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-19 00:00:28 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-19 00:00:28 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-19 00:00:28 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-19 00:46:55 [ CRITICAL ] [ create_log.py:34 ] >> USER: adminlogin
+2021-03-19 00:46:55 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-19 00:46:55 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-19 00:46:55 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-19 00:46:55 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-19 00:46:55 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-19 00:46:55 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-19 00:46:55 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-19 00:46:55 [ DEBUG ] [ create_log.py:31 ] >> Active is false
+2021-03-19 00:46:55 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-19 00:46:55 [ DEBUG ] [ create_log.py:31 ] >> Active is true
+2021-03-19 00:46:55 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-19 00:46:55 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-19 00:46:55 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-19 00:46:55 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-19 00:46:55 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-19 00:46:55 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-19 00:46:55 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-19 00:46:55 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-19 00:46:55 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-19 00:46:55 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-19 00:46:55 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-19 00:46:55 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-19 00:46:55 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-19 00:46:55 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-19 00:46:55 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-19 00:46:55 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-19 00:46:55 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-19 00:46:55 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-19 00:46:55 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-19 00:46:55 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-19 00:46:55 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-19 00:46:55 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-19 00:46:55 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-19 00:46:55 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-19 00:46:55 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-19 00:46:55 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-19 00:46:55 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-19 00:46:55 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-19 00:46:55 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-19 00:46:55 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-19 00:46:55 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-19 00:46:55 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-19 00:46:55 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-19 00:46:55 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-19 00:46:55 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-19 00:46:55 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-19 00:46:55 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-19 00:46:55 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-19 00:46:55 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-19 00:46:55 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-19 00:46:55 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-19 00:46:55 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-19 00:46:55 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-19 00:46:55 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-19 00:46:55 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-19 00:46:55 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-19 00:46:55 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-19 00:46:55 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-19 00:46:55 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-19 00:46:55 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-19 00:46:55 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-19 00:46:55 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-19 00:46:55 [ DEBUG ] [ create_log.py:31 ] >> Active is false
+2021-03-19 00:46:55 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-19 00:46:55 [ DEBUG ] [ create_log.py:31 ] >> Active is true
+2021-03-19 00:46:55 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-19 00:46:55 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-19 00:46:55 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-19 00:46:55 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-19 00:46:55 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-19 00:46:55 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-19 00:46:55 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-19 00:46:55 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-19 00:46:55 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-19 00:46:55 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-19 00:46:55 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-19 00:46:55 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-19 00:46:55 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-19 00:46:55 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-19 00:46:55 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-19 00:46:55 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-19 00:46:55 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-19 00:46:55 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-19 00:46:55 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-19 00:46:55 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-19 00:46:55 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-19 00:46:55 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-19 00:46:55 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-19 00:46:55 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-19 00:46:55 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-19 00:46:55 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-19 00:46:55 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-19 00:46:55 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-19 00:46:55 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-19 00:46:55 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-19 00:46:55 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-19 00:46:55 [ DEBUG ] [ create_log.py:31 ] >> Active is false
+2021-03-19 00:46:55 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-19 00:46:55 [ DEBUG ] [ create_log.py:31 ] >> Active is true
+2021-03-19 00:46:55 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-19 00:46:55 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-19 00:46:55 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-19 00:46:55 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-19 00:46:55 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-19 00:46:55 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-19 00:46:55 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-19 00:46:55 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-19 00:46:55 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-19 00:46:55 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-19 00:46:55 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-19 00:46:55 [ DEBUG ] [ create_log.py:31 ] >> Updata Setting
+2021-03-19 00:46:55 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-19 00:46:55 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-19 00:46:55 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-19 00:46:55 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-19 00:46:55 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-19 00:46:55 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-19 00:46:55 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-19 00:46:55 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-19 00:46:55 [ CRITICAL ] [ create_log.py:34 ] >> USER: adminlogin
+2021-03-19 00:46:55 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-19 00:46:55 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-19 00:46:55 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-19 00:46:55 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-19 00:46:55 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-19 00:46:55 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-19 00:46:55 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-19 00:46:55 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-19 00:46:55 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-19 00:46:55 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-19 00:46:55 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-19 00:46:55 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-19 00:46:55 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-19 00:46:55 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-19 20:07:29 [ CRITICAL ] [ create_log.py:34 ] >> USER: adminlogin
+2021-03-19 20:07:29 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-19 20:07:29 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-19 20:07:29 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-19 20:07:29 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-19 20:07:29 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-19 20:07:29 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-19 20:07:29 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-19 20:07:29 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-19 20:07:29 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-19 20:07:29 [ CRITICAL ] [ create_log.py:34 ] >> USER: adminlogin
+2021-03-19 20:07:29 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-19 20:07:29 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-19 20:07:29 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-19 20:07:29 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-19 20:07:29 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-19 20:07:29 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-19 20:07:29 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-19 20:07:29 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-19 20:07:29 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-19 20:07:29 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-19 20:07:29 [ CRITICAL ] [ create_log.py:34 ] >> USER: adminlogin
+2021-03-19 20:07:29 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-19 20:07:29 [ CRITICAL ] [ create_log.py:34 ] >> USER: adminlogin
+2021-03-19 20:07:29 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-19 20:07:29 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-19 20:07:29 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-19 20:07:29 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-19 20:07:29 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-19 20:07:29 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-19 20:07:29 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-19 20:07:29 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-19 20:07:29 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-19 20:07:29 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-19 20:07:29 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-21 14:04:30 [ CRITICAL ] [ create_log.py:34 ] >> USER: adminlogin
+2021-03-21 14:04:30 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-21 14:04:30 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-21 14:04:30 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-21 14:04:30 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-21 14:04:30 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-21 14:04:30 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-21 14:04:30 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-21 14:04:30 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-21 14:04:30 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-21 14:04:30 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-21 14:04:30 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-21 14:04:30 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-21 14:04:30 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-21 14:04:30 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-21 16:57:16 [ CRITICAL ] [ create_log.py:34 ] >> USER: adminlogin
+2021-03-21 17:28:30 [ CRITICAL ] [ create_log.py:34 ] >> USER: adminlogin
+2021-03-21 17:28:30 [ CRITICAL ] [ create_log.py:34 ] >> USER: adminlogin
+2021-03-21 17:28:30 [ CRITICAL ] [ create_log.py:34 ] >> USER: adminlogin
+2021-03-21 17:28:30 [ CRITICAL ] [ create_log.py:34 ] >> USER: adminlogin
+2021-03-21 17:28:30 [ CRITICAL ] [ create_log.py:34 ] >> USER: adminlogin
+2021-03-21 17:28:30 [ CRITICAL ] [ create_log.py:34 ] >> USER: adminlogin
+2021-03-21 17:37:36 [ CRITICAL ] [ create_log.py:34 ] >> USER: adminlogin
+2021-03-21 17:37:36 [ CRITICAL ] [ create_log.py:34 ] >> USER: adminlogin
+2021-03-21 19:12:34 [ CRITICAL ] [ create_log.py:34 ] >> USER: adminlogin
+2021-03-21 19:12:34 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-21 19:12:34 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-21 19:12:34 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-21 19:12:34 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-21 19:12:34 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-21 19:12:34 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-21 19:12:34 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-21 19:12:34 [ CRITICAL ] [ create_log.py:34 ] >> USER: adminlogin
+2021-03-21 19:12:34 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-21 19:12:34 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-21 19:12:34 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-21 19:12:34 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-21 19:12:34 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-21 19:12:34 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-21 19:12:34 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-21 19:12:34 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-21 19:12:34 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-21 19:12:34 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-21 19:12:34 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-21 19:12:34 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-21 19:12:34 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-21 19:12:34 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-21 19:12:34 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-21 19:12:34 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-21 19:12:34 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-21 19:12:34 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-21 19:12:34 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-21 19:12:34 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-21 19:12:34 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-21 19:12:34 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-21 19:12:34 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-21 19:12:34 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-21 19:12:34 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-21 19:12:34 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-21 19:12:34 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-21 19:12:34 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-21 19:12:34 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-21 19:12:34 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-21 19:12:34 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-21 19:12:34 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-21 19:12:34 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-21 19:12:34 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-21 19:12:34 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-21 19:12:34 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-21 19:12:34 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-21 19:12:34 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-21 19:12:34 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-21 19:12:34 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-21 19:12:34 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-21 19:12:34 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-21 19:12:34 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-21 19:12:34 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-21 19:12:34 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-21 19:12:34 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-21 19:12:34 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-21 19:12:34 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-21 19:12:34 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-21 19:12:34 [ CRITICAL ] [ create_log.py:34 ] >> USER: adminlogin
+2021-03-21 19:12:34 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-21 19:12:34 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-21 19:12:34 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-21 19:12:34 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-21 19:12:34 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-21 19:12:34 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-21 19:12:34 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-21 19:12:34 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-21 19:12:34 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-21 19:12:34 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-21 19:12:34 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-21 19:12:34 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-21 19:12:34 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-21 19:12:34 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-21 19:12:34 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-21 19:12:34 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-21 19:12:34 [ CRITICAL ] [ create_log.py:34 ] >> USER: adminlogin
+2021-03-21 19:12:34 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
+2021-03-21 19:12:34 [ DEBUG ] [ create_log.py:31 ] >> Get Trades
+2021-03-22 20:05:22 [ CRITICAL ] [ create_log.py:34 ] >> USER: adminlogin
+2021-03-22 20:05:22 [ DEBUG ] [ create_log.py:31 ] >> Get Setting
